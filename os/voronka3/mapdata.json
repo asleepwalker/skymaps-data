@@ -14,21 +14,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    402,
-                    -491
-                ]
-            },
-            "properties": {
-                "type": "seyatel",
-                "x": 402,
-                "y": 491
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     289,
                     -507
                 ]

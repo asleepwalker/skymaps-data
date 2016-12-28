@@ -138,6 +138,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    186,
+                    -1386
+                ]
+            },
+            "properties": {
+                "type": "note",
+                "x": 186,
+                "y": 1386,
+                "text": "Заброшенная газокачка.\nГазгольдеры странников.\nПервый обыск: 3 золотых, 5 серебряных\nПоследующие обыски раз в сутки: 1 серебряный"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     345,
                     -1703
                 ]
@@ -357,14 +373,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    140,
-                    -1382
+                    126,
+                    -1341
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 140,
-                "y": 1382,
+                "x": 126,
+                "y": 1341,
                 "caption": "Великий кроволет",
                 "class": "airship"
             }
@@ -900,14 +916,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    141,
-                    -1422
+                    127,
+                    -1463
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 141,
-                "y": 1422,
+                "x": 127,
+                "y": 1463,
                 "caption": "Великий кроволет",
                 "class": "airship"
             }
@@ -1422,14 +1438,81 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    1022,
+                    -1001
+                ]
+            },
+            "properties": {
+                "type": "city",
+                "x": 1022,
+                "y": 1001,
+                "caption": "Лагуна",
+                "size": 156,
+                "list": [
+                    {
+                        "caption": "Бухта Барахта",
+                        "region": "pr",
+                        "map": "buhta",
+                        "x": 386,
+                        "y": 1165,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "Пиратская станция",
+                        "region": "pr",
+                        "map": "goreliy3",
+                        "x": 198,
+                        "y": 814,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "\"Голубая Даль\"",
+                        "region": "pr",
+                        "map": "bezdna2",
+                        "x": 313,
+                        "y": 323,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "Фейра-ди-Сантана",
+                        "region": "pr",
+                        "map": "labb",
+                        "x": 498,
+                        "y": 770,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "Пирасикаба",
+                        "region": "pr",
+                        "map": "labv",
+                        "x": 805,
+                        "y": 365,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "Охотничья платформа",
+                        "region": "pr",
+                        "map": "zapovednik1",
+                        "x": 757,
+                        "y": 165,
+                        "type": "station"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     1002,
-                    -979
+                    -924
                 ]
             },
             "properties": {
                 "type": "npc",
                 "x": 1002,
-                "y": 979,
+                "y": 924,
                 "caption": "Лагуна",
                 "npc": "Марина",
                 "link": "library\/npc\/pr\/marina",
@@ -1493,65 +1576,6 @@
                     {
                         "caption": "Кровавая метка",
                         "url": "quests\/script3\/adventures\/bloodmark"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1022,
-                    -1001
-                ]
-            },
-            "properties": {
-                "type": "city",
-                "x": 1022,
-                "y": 1001,
-                "caption": "Лагуна",
-                "size": 156,
-                "list": [
-                    {
-                        "caption": "Бухта Барахта",
-                        "region": "pr",
-                        "map": "buhta",
-                        "x": 386,
-                        "y": 1165,
-                        "type": "station"
-                    },
-                    {
-                        "caption": "Пиратская станция",
-                        "region": "pr",
-                        "map": "goreliy3",
-                        "x": 198,
-                        "y": 814,
-                        "type": "station"
-                    },
-                    {
-                        "caption": "\"Голубая Даль\"",
-                        "region": "pr",
-                        "map": "bezdna2",
-                        "x": 313,
-                        "y": 323,
-                        "type": "station"
-                    },
-                    {
-                        "caption": "Фейра-ди-Сантана",
-                        "region": "pr",
-                        "map": "labb",
-                        "x": 498,
-                        "y": 770,
-                        "type": "station"
-                    },
-                    {
-                        "caption": "Пирасикаба",
-                        "region": "pr",
-                        "map": "labv",
-                        "x": 805,
-                        "y": 365,
-                        "type": "station"
                     }
                 ]
             }

@@ -34,6 +34,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    714,
+                    -321
+                ]
+            },
+            "properties": {
+                "type": "tree",
+                "x": 714,
+                "y": 321
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     231,
                     -355
                 ]
@@ -51,14 +66,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    694,
-                    -355
+                    695,
+                    -364
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 694,
-                "y": 355,
+                "x": 695,
+                "y": 364,
                 "caption": "Улей",
                 "class": "uley"
             }
@@ -117,7 +132,8 @@
                 "y": 266,
                 "list": [
                     "Дешёвые реагенты"
-                ]
+                ],
+                "link": "library\/masters\/gavane"
             }
         }
     ]

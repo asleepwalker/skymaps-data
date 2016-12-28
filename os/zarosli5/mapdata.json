@@ -74,21 +74,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    630,
-                    -390
-                ]
-            },
-            "properties": {
-                "type": "seyatel",
-                "x": 630,
-                "y": 390
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     690,
                     -372
                 ]

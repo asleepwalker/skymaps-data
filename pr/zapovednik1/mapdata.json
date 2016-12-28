@@ -26,6 +26,14 @@
                 "size": 80,
                 "list": [
                     {
+                        "caption": "Лагуна",
+                        "region": "pr",
+                        "map": "index",
+                        "x": 1022,
+                        "y": 1001,
+                        "type": "station"
+                    },
+                    {
                         "caption": "Неименуемая платформа",
                         "region": "pr",
                         "map": "zapovednik3",
@@ -34,21 +42,6 @@
                         "type": "station"
                     }
                 ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    445,
-                    -610
-                ]
-            },
-            "properties": {
-                "type": "",
-                "x": 445,
-                "y": 610
             }
         },
         {

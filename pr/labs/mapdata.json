@@ -52,6 +52,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    218,
+                    -850
+                ]
+            },
+            "properties": {
+                "type": "note",
+                "x": 218,
+                "y": 850,
+                "text": "Заборшенная газокачка.\nМожно получить возможность вставить газгольдеры церкви.\nПервый обыск: 3 золотых, 5 серебряных\nПоследующие обыски раз в сутки: 1 серебряный"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     875,
                     -835
                 ]
@@ -217,14 +233,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    107,
-                    -842
+                    33,
+                    -836
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 107,
-                "y": 842,
+                "x": 33,
+                "y": 836,
                 "caption": "Великий Кроволёт Барон",
                 "class": "airship"
             }
@@ -234,14 +250,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    172,
-                    -807
+                    169,
+                    -800
                 ]
             },
             "properties": {
                 "type": "beacon",
-                "x": 172,
-                "y": 807,
+                "x": 169,
+                "y": 800,
                 "mobs": "Синерог-потрошитель (5)",
                 "coins": "3",
                 "link": "library\/coins\/reef"

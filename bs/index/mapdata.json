@@ -1270,70 +1270,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    147,
-                    -664
-                ]
-            },
-            "properties": {
-                "type": "npc",
-                "x": 147,
-                "y": 664,
-                "caption": "Твердыня",
-                "npc": "Сестра Брис",
-                "link": "library\/npc\/bs\/bris",
-                "quests": [
-                    {
-                        "caption": "Атака низушников",
-                        "url": "quests\/script4\/cannon\/attack"
-                    },
-                    {
-                        "caption": "Двигатель Легендарного",
-                        "url": "quests\/script4\/cannon\/engine"
-                    },
-                    {
-                        "caption": "Спасти разведчицу Дайну",
-                        "url": "quests\/script4\/cannon\/helpdaina"
-                    },
-                    {
-                        "caption": "Донесение Дайны",
-                        "url": "quests\/script4\/cannon\/dainareports"
-                    },
-                    {
-                        "caption": "Как ты, Дочурка?",
-                        "url": "quests\/script4\/cannon\/howareyou"
-                    },
-                    {
-                        "caption": "Низверг",
-                        "url": "quests\/script4\/cannon\/nizverg"
-                    },
-                    {
-                        "caption": "Дым вражеских труб",
-                        "url": "quests\/script4\/past\/steam"
-                    },
-                    {
-                        "caption": "Валькирия",
-                        "url": "quests\/script4\/past\/valkyrie"
-                    },
-                    {
-                        "caption": "Неудобная правда",
-                        "url": "quests\/script4\/past\/truth"
-                    },
-                    {
-                        "caption": "Переговоры",
-                        "url": "quests\/script4\/breakthrough\/negotiation"
-                    },
-                    {
-                        "caption": "Славные вести",
-                        "url": "quests\/script4\/breakthrough\/report"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     162,
                     -676
                 ]
@@ -1400,6 +1336,70 @@
                         "x": 484,
                         "y": 501,
                         "type": "station"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143,
+                    -567
+                ]
+            },
+            "properties": {
+                "type": "npc",
+                "x": 143,
+                "y": 567,
+                "caption": "Твердыня",
+                "npc": "Сестра Брис",
+                "link": "library\/npc\/bs\/bris",
+                "quests": [
+                    {
+                        "caption": "Атака низушников",
+                        "url": "quests\/script4\/cannon\/attack"
+                    },
+                    {
+                        "caption": "Двигатель Легендарного",
+                        "url": "quests\/script4\/cannon\/engine"
+                    },
+                    {
+                        "caption": "Спасти разведчицу Дайну",
+                        "url": "quests\/script4\/cannon\/helpdaina"
+                    },
+                    {
+                        "caption": "Донесение Дайны",
+                        "url": "quests\/script4\/cannon\/dainareports"
+                    },
+                    {
+                        "caption": "Как ты, Дочурка?",
+                        "url": "quests\/script4\/cannon\/howareyou"
+                    },
+                    {
+                        "caption": "Низверг",
+                        "url": "quests\/script4\/cannon\/nizverg"
+                    },
+                    {
+                        "caption": "Дым вражеских труб",
+                        "url": "quests\/script4\/past\/steam"
+                    },
+                    {
+                        "caption": "Валькирия",
+                        "url": "quests\/script4\/past\/valkyrie"
+                    },
+                    {
+                        "caption": "Неудобная правда",
+                        "url": "quests\/script4\/past\/truth"
+                    },
+                    {
+                        "caption": "Переговоры",
+                        "url": "quests\/script4\/breakthrough\/negotiation"
+                    },
+                    {
+                        "caption": "Славные вести",
+                        "url": "quests\/script4\/breakthrough\/report"
                     }
                 ]
             }

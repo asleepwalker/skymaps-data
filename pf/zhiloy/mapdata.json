@@ -201,14 +201,41 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    504,
+                    -487
+                ]
+            },
+            "properties": {
+                "type": "station",
+                "x": 504,
+                "y": 487,
+                "caption": "Исследовательская платформа",
+                "size": 109,
+                "list": [
+                    {
+                        "caption": "Вышино",
+                        "region": "pf",
+                        "map": "index",
+                        "x": 1607,
+                        "y": 762,
+                        "type": "station"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     484,
-                    -469
+                    -433
                 ]
             },
             "properties": {
                 "type": "npc",
                 "x": 484,
-                "y": 469,
+                "y": 433,
                 "caption": "Исследовательская платформа",
                 "npc": "Ирэн Розенкрауцер",
                 "link": "library\/npc\/pf\/iren",
@@ -260,33 +287,6 @@
                     {
                         "caption": "Разоблачение",
                         "url": "quests\/script2\/expedition\/reveal"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    504,
-                    -487
-                ]
-            },
-            "properties": {
-                "type": "station",
-                "x": 504,
-                "y": 487,
-                "caption": "Исследовательская платформа",
-                "size": 109,
-                "list": [
-                    {
-                        "caption": "Вышино",
-                        "region": "pf",
-                        "map": "index",
-                        "x": 1607,
-                        "y": 762,
-                        "type": "station"
                     }
                 ]
             }

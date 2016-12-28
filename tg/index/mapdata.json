@@ -1085,13 +1085,13 @@
                 "type": "Point",
                 "coordinates": [
                     534,
-                    -364
+                    -204
                 ]
             },
             "properties": {
                 "type": "npc",
                 "x": 534,
-                "y": 364,
+                "y": 204,
                 "caption": "Кроссвинд",
                 "npc": "Милента",
                 "link": "library\/npc\/tg\/milenta",

@@ -122,21 +122,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    700,
-                    -760
-                ]
-            },
-            "properties": {
-                "type": "seyatel",
-                "x": 700,
-                "y": 760
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     253,
                     -733
                 ]

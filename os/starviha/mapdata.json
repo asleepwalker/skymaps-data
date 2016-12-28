@@ -66,21 +66,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    890,
-                    -160
-                ]
-            },
-            "properties": {
-                "type": "seyatel",
-                "x": 890,
-                "y": 160
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     400,
                     -122
                 ]

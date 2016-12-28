@@ -257,36 +257,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0,
-                    0
-                ]
-            },
-            "properties": {
-                "type": "tree",
-                "x": 0,
-                "y": 0
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            },
-            "properties": {
-                "type": "tree",
-                "x": 0,
-                "y": 0
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     2624,
                     -399
                 ]
@@ -556,14 +526,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    114,
-                    -1769
+                    130,
+                    -1781
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 114,
-                "y": 1769,
+                "x": 130,
+                "y": 1781,
                 "caption": "Мегаёж",
                 "class": "zloboezh"
             }
@@ -573,16 +543,32 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    159,
-                    -1733
+                    178,
+                    -1736
                 ]
             },
             "properties": {
                 "type": "boss",
-                "x": 159,
-                "y": 1733,
+                "x": 178,
+                "y": 1736,
                 "caption": "Мегаёж",
                 "class": "zloboezh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127,
+                    -1728
+                ]
+            },
+            "properties": {
+                "type": "note",
+                "x": 127,
+                "y": 1728,
+                "text": "При первом обыске появится возможность, бесплатно, вставить 3 золотых газгольдера Университета и 5 серебряных. При последующих обыска, раз в сутки, 1 серебряный"
             }
         },
         {
@@ -1250,13 +1236,13 @@
                 "type": "Point",
                 "coordinates": [
                     2182,
-                    -1012
+                    -1127
                 ]
             },
             "properties": {
                 "type": "note",
                 "x": 2182,
-                "y": 1012,
+                "y": 1127,
                 "text": "В Трущобах живёт 15 мастеров, которых за 30 дублонов можно нанять работать на час. По ссылке визуальная карта.",
                 "link": "maps\/masters1"
             }
@@ -2177,14 +2163,97 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    1607,
+                    -762
+                ]
+            },
+            "properties": {
+                "type": "city",
+                "x": 1607,
+                "y": 762,
+                "caption": "Вышино",
+                "size": 243,
+                "list": [
+                    {
+                        "caption": "Муниципальный Округ 4",
+                        "region": "pf",
+                        "map": "okrug",
+                        "x": 252,
+                        "y": 402,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "\"Слава Бургомистра\"",
+                        "region": "pf",
+                        "map": "lezhbishe",
+                        "x": 219,
+                        "y": 219,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "\"50 лет Памфри\"",
+                        "region": "pf",
+                        "map": "musorozhye",
+                        "x": 218,
+                        "y": 481,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "\"Радушная\"",
+                        "region": "pf",
+                        "map": "alcogolicovo",
+                        "x": 204,
+                        "y": 496,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "Западная платформа",
+                        "region": "pf",
+                        "map": "index",
+                        "x": 420,
+                        "y": 1141,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "Восточная платформа",
+                        "region": "pf",
+                        "map": "index",
+                        "x": 2472,
+                        "y": 1439,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "Платформа Хиггса",
+                        "region": "pf",
+                        "map": "npkcenter",
+                        "x": 500,
+                        "y": 534,
+                        "type": "station"
+                    },
+                    {
+                        "caption": "Исследовательская платформа",
+                        "region": "pf",
+                        "map": "zhiloy",
+                        "x": 504,
+                        "y": 487,
+                        "type": "station"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     1592,
-                    -740
+                    -650
                 ]
             },
             "properties": {
                 "type": "npc",
                 "x": 1592,
-                "y": 740,
+                "y": 650,
                 "caption": "Вышино",
                 "npc": "Бургомистр Памфри",
                 "link": "library\/npc\/pf\/pamfri",
@@ -2693,97 +2762,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1607,
-                    -762
-                ]
-            },
-            "properties": {
-                "type": "city",
-                "x": 1607,
-                "y": 762,
-                "caption": "Вышино",
-                "size": 243,
-                "list": [
-                    {
-                        "caption": "Муниципальный Округ 4",
-                        "region": "pf",
-                        "map": "okrug",
-                        "x": 252,
-                        "y": 402,
-                        "type": "station"
-                    },
-                    {
-                        "caption": "\"Слава Бургомистра\"",
-                        "region": "pf",
-                        "map": "lezhbishe",
-                        "x": 219,
-                        "y": 219,
-                        "type": "station"
-                    },
-                    {
-                        "caption": "\"50 лет Памфри\"",
-                        "region": "pf",
-                        "map": "musorozhye",
-                        "x": 218,
-                        "y": 481,
-                        "type": "station"
-                    },
-                    {
-                        "caption": "\"Радушная\"",
-                        "region": "pf",
-                        "map": "alcogolicovo",
-                        "x": 204,
-                        "y": 496,
-                        "type": "station"
-                    },
-                    {
-                        "caption": "Западная платформа",
-                        "region": "pf",
-                        "map": "index",
-                        "x": 419,
-                        "y": 1143,
-                        "type": "station"
-                    },
-                    {
-                        "caption": "Восточная платформа",
-                        "region": "pf",
-                        "map": "index",
-                        "x": 2472,
-                        "y": 1439,
-                        "type": "station"
-                    },
-                    {
-                        "caption": "Платформа Хиггса",
-                        "region": "pf",
-                        "map": "npkcenter",
-                        "x": 500,
-                        "y": 534,
-                        "type": "station"
-                    },
-                    {
-                        "caption": "Исследовательская платформа",
-                        "region": "pf",
-                        "map": "zhiloy",
-                        "x": 504,
-                        "y": 487,
-                        "type": "station"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    419,
-                    -1143
+                    420,
+                    -1141
                 ]
             },
             "properties": {
                 "type": "station",
-                "x": 419,
-                "y": 1143,
+                "x": 420,
+                "y": 1141,
                 "caption": "Западная платформа",
                 "size": 148,
                 "list": [

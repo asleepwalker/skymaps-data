@@ -36,7 +36,14 @@
             "properties": {
                 "type": "hole",
                 "x": 852,
-                "y": 92
+                "y": 92,
+                "region": "pf",
+                "map": "npkresearch",
+                "caption": "НПК, Исследовательский уровень",
+                "goto": {
+                    "x": 476,
+                    "y": 930
+                }
             }
         },
         {
@@ -51,7 +58,14 @@
             "properties": {
                 "type": "hole",
                 "x": 110,
-                "y": 91
+                "y": 91,
+                "region": "pf",
+                "map": "npkadmin",
+                "caption": "НПК, Административный уровень",
+                "goto": {
+                    "x": 127,
+                    "y": 907
+                }
             }
         },
         {

@@ -48,21 +48,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    260,
-                    -260
-                ]
-            },
-            "properties": {
-                "type": "seyatel",
-                "x": 260,
-                "y": 260
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     815,
                     -544
                 ]
